@@ -1,2 +1,4 @@
 # F1-Final-Proyect
 This is my Final Proyect for "Computational Modeling Applying Conservation Laws" class.
+
+This MATLAB code simulates the motion of a vehicle on a circuit, calculating various parameters related to its position, speed, acceleration, and energy loss. The project includes the calculation of the vehicle's trajectory based on a cubic equation, the determination of maximum allowable speed in curves, and the simulation of the vehicle's movement. It also visualizes the circuit, animates the vehicle's trajectory, and provides detailed information on position, speed, acceleration, and energy loss throughout the simulation. The project concludes with an analysis of the total energy loss and generates a final animation depicting the entire simulated scenario. This comprehensive simulation provides insights into the dynamic behavior of a vehicle navigating a complex circuit.
